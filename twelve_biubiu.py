@@ -17,4 +17,5 @@ def twelve_biubiu():
     print('////\\\\\\\\')
 
 
-twelve_biubiu()
+if __name__=='__main__':
+    twelve_biubiu()
